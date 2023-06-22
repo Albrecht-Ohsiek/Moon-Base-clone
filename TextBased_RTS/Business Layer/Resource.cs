@@ -6,53 +6,41 @@ using System.Threading.Tasks;
 
 namespace TextBased_RTS
 {
-    internal class Resource
+    internal abstract class Resource
     {
-        private string typeName;
-        private int income = 0; //Zero income by default
+        private int income = 0; // Zero by default
+        private int storage = 0;
+        private int stored = 0;
 
-        public Resource(string type)
+        // Gets resource Type
+        public abstract string getType();
+
+        // Gets/Sets stored number of a resource
+        public void setStored(int num)
         {
-            setType(type);
-
-        }
-
-        private void setType(string myType)
-        {
-            try
+            // Gets starting stored resources
+            if (num <= storage)
             {
-                switch (myType)
-                {
-                    case "Oxygen":
-                        typeName = "Oxygen";
-                        break;
-                    case "Water":
-                        typeName = "Water";
-                        break;
-                    case "Metal":
-                        typeName = "Metal";
-                        break;
-                    case "Helium3":
-                        typeName = "Helium3";
-                        break;
-                    default:
-                        throw new Exception("Invalid Resource Type");
-                }
+                stored = num;
             }
-            catch(Exception ex) 
+            else
             {
-                Console.WriteLine(ex.ToString());
+                stored = storage;
             }
         }
 
-        public string getType() { return typeName; }
+        public int getStored()
+        {
+            return stored;
+        }
 
+        // Increased/Gets Income/time_interval
         public void addIncome(int num)
         {
             income += num;
         }
 
-        public int getIncome() { return income;}
+        public int getIncome() { return income; }
 
     }
 }
