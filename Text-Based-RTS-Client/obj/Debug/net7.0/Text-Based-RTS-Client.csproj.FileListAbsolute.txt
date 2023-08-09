@@ -1,0 +1,14 @@
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/bin/Debug/net7.0/Text-Based-RTS-Client
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/bin/Debug/net7.0/Text-Based-RTS-Client.deps.json
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/bin/Debug/net7.0/Text-Based-RTS-Client.runtimeconfig.json
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/bin/Debug/net7.0/Text-Based-RTS-Client.dll
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/bin/Debug/net7.0/Text-Based-RTS-Client.pdb
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/Text-Based-RTS-Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/Text-Based-RTS-Client.AssemblyInfoInputs.cache
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/Text-Based-RTS-Client.AssemblyInfo.cs
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/Text-Based-RTS-Client.csproj.CoreCompileInputs.cache
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/Text-Based-RTS-Client.dll
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/refint/Text-Based-RTS-Client.dll
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/Text-Based-RTS-Client.pdb
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/Text-Based-RTS-Client.genruntimeconfig.cache
+/Users/albrechtohsiek/Personal/myProjects/Moon-Base-clone/Text-Based-RTS-Client/obj/Debug/net7.0/ref/Text-Based-RTS-Client.dll
