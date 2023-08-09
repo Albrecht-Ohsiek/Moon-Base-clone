@@ -1,10 +1,8 @@
-using System;
-
-namespace Text_Based_RTS_Client
+namespace Text_Based_RTS_Client.Console_Display
 {
     public class Client_Display_Console
     {
-        public void myTest(){
+        public static void Display(){
             Console.WriteLine("Hello Class in new folder");
         }
     }
